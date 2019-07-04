@@ -1,7 +1,7 @@
 saving account :
 
 interest rate  = 45%
-min balance = 1000
+min balance = 45000
 
 
 current account :
