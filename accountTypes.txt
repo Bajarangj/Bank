@@ -1,0 +1,9 @@
+saving account :
+
+interest rate  = 8.89%
+min balance = 5000
+
+
+current account :
+interest rate = 10.5%
+min balance = 4000
