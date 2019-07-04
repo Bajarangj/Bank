@@ -1,6 +1,6 @@
 saving account :
 
-interest rate  = 7%
+interest rate  = 45%
 min balance = 1000
 
 
