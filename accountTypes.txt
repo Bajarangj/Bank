@@ -7,3 +7,7 @@ min balance = 1000
 current account :
 interest rate = 10.5%
 min balance = 4000
+
+checking account :
+interest rate = 5%
+withdraw limit = 50000
